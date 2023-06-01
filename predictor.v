@@ -3,7 +3,7 @@ module predictor(input wire request, result, clk, taken, output reg prediction);
 reg [1:0] memory;
 
 initial begin
-    memory = {1, 1};
+    memory = 2'b11;
 end
 
 always @ (posedge clk) begin
