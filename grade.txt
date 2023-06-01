@@ -1,5 +1,4 @@
-Thu Jun  1 06:42:57 UTC 2023
-predictor.v:6: error: Concatenation operand "'sd1" has indefinite width.
-predictor.v:6: error: Concatenation operand "'sd1" has indefinite width.
-2 error(s) during elaboration.
-An error occurred when opening .vcd file '.tmp.vcd'
+Thu Jun  1 06:45:41 UTC 2023
+Test 'predictor' passed for src file 'predictor.v'
+src file 'predictor.v': 1/1 tests passed
+
